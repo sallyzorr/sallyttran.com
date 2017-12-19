@@ -8,7 +8,7 @@ font-family: 'Roboto Mono', monospace;*/
 	position: fixed;
 	width: 280px;
 	height: 100%;
-	background-color: black;
+	background-color: red;
 	-webkit-transform: translateX(-280px);
 	-moz-transform: translateX(-280px);
 	-ms-transform: translateX(-280px);
